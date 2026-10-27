@@ -4,7 +4,9 @@ Practice project: risk-driven ISO/IEC 27001:2022 Statement of Applicability for 
 The Scenario
 ---
 
-Company: CloudNative Analytics Ltd Industry: B2B SaaS - Data Analytics Platform Employees: 85 (fully remote) Infrastructure: 100% cloud (AWS), no physical data centers Customers: 200+ enterprise clients requiring ISO 27001 certification Goal: Achieve ISO 27001:2022 certification within 6 months
+Company: CloudNative Analytics Ltd Industry: B2B SaaS - Data Analytics Platform Employees: 85 (fully remote) Infrastructure: 100% cloud (AWS), no physical data centers Customers: 200+ enterprise clients requiring ISO 27001 certification 
+
+Goal: Achieve ISO 27001:2022 certification within 6 months
 
 Business Context
 No physical offices (remote-first since founding)
