@@ -19,11 +19,11 @@ Risk Assessment Summary
 The company has completed a risk assessment identifying these top risks:
 
 Risk ID	Risk Description	Likelihood	Impact	Risk Level
-R-001	Unauthorized access to customer data	Medium	High	High
-R-002	Employee laptop theft/loss	Medium	Medium	Medium
-R-003	Cloud misconfiguration	High	High	Critical
-R-004	Insider threat	Low	High	Medium
-R-005	Third-party breach (AWS)	Low	Critical	High
-R-006	Business continuity failure	Low	High	Medium
+- R-001	Unauthorized access to customer data	Medium	High	High
+- R-002	Employee laptop theft/loss	Medium	Medium	Medium
+- R-003	Cloud misconfiguration	High	High	Critical
+- R-004	Insider threat	Low	High	Medium
+- R-005	Third-party breach (AWS)	Low	Critical	High
+- R-006	Business continuity failure	Low	High	Medium
 
 
