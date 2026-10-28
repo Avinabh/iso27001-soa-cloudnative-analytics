@@ -43,7 +43,7 @@ The project includes a draft ISO/IEC 27001:2022 Statement of Applicability cover
 | Not applicable                   |     2 |
 | Planned; evidence review pending |    91 |
 
-See the [SOA draft](./CloudNative_Analytics_ISO27001_SoA.md) for control-by-control justifications, evidence targets, exclusions, and risk traceability.
+See the [SOA draft](./CloudNative_Analytics_ISO27001_SoA_Draft.md) for control-by-control justifications, evidence targets, exclusions, and risk traceability.
 
 Key applicability decisions
 - Controls 7.1–7.5 and 7.11–7.12 are applicable to the AWS-hosted service and are operated by AWS where relevant. AWS assurance evidence and service coverage still need validation.
