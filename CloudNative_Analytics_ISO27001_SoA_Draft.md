@@ -179,7 +179,7 @@ The six risk IDs below follow the user's clarification that the risk register us
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
-| 1.1-draft | 27 October 2026 | ISMS owner (TBD) | Revised physical-control applicability, 8.30 exclusion, control summary, and R-001 to R-006 traceability; evidence still requires owner validation. |
+| 1.0 | 27 October 2026 | ISMS owner (TBD) | Revised physical-control applicability, 8.30 exclusion, control summary, and R-001 to R-006 traceability; evidence still requires owner validation. |
 
 ---
 
